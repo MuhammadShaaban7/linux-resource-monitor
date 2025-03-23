@@ -1,0 +1,5 @@
+Resource Monitor Report - 2025-03-23 16:28:39
+--------------------------------
+CPU Usage: 0%
+Memory Usage: 667 MB / 7859 MB (8%)
+Disk Usage: 2%
